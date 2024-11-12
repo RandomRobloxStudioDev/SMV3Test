@@ -26,5 +26,19 @@
     "MaxRange": "nan",
 
     "ExcludeFromSummon": false
+  },
+  "Super Rare Test Tower 1": {
+    "Rarity": "Rare",
+    "price": 100,
+
+    "Damage": 400,
+    "Cooldown": 2,
+    "Range": 999,
+
+    "MaxDamage": "inf",
+    "MaxCooldown": "-inf",
+    "MaxRange": "nan",
+
+    "ExcludeFromSummon": false
   }
 }
