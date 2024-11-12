@@ -7,11 +7,11 @@
     "Cooldown": 2,
     "Range": 999,
 
-    "MaxDamage": 10,
+    "MaxDamage": +1e9999,
     "MaxCooldown": 5,
     "MaxRange": 1,
 
-    "ExcludeFromSummon": true
+    "ExcludeFromSummon": false
   },
   "Rare Test Tower 1": {
     
