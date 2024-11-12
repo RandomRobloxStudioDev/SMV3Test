@@ -1,1 +1,19 @@
+{
+  "Common Test Tower 1": {
+    "Rarity": "Common",
+    "price": 100,
 
+    "Damage": 400,
+    "Cooldown": 2,
+    "Range": 999,
+
+    "MaxDamage": +1e9999,
+    "MaxCooldown": 5,
+    "MaxRange": 1,
+
+    "ExcludeFromSummon": true
+  },
+  "Rare Test Tower 1" = {
+    
+  }
+}
