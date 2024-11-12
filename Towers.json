@@ -14,7 +14,7 @@
     "ExcludeFromSummon": false
   },
   "Rare Test Tower 1": {
-    "Rarity": "Common",
+    "Rarity": "Rare",
     "price": 100,
 
     "Damage": 400,
