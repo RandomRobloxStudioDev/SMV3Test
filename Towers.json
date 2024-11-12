@@ -28,10 +28,10 @@
     "ExcludeFromSummon": false
   },
   "Super Rare Test Tower 1": {
-    "Rarity": "Rare",
-    "price": 100,
+    "Rarity": "Super Rare",
+    "price": 1000,
 
-    "Damage": 400,
+    "Damage": 10,
     "Cooldown": 2,
     "Range": 999,
 
