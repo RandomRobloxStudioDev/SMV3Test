@@ -2,6 +2,7 @@
   "Common Test Tower 1": {
     "Rarity": "Common",
     "price": 100,
+    "Image": "rbxassetid://13062969701",
 
     "Damage": 400,
     "Cooldown": 2,
