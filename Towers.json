@@ -130,7 +130,7 @@
     "MaxRange": "nan",
 
     "ExcludeFromSummon": false
-  }
+  },
     "Super Rare Test Tower 2": {
     "Rarity": "Super Rare",
     "price": 1000,
@@ -144,7 +144,7 @@
     "MaxRange": "nan",
 
     "ExcludeFromSummon": false
-  }
+  },
     "Super Rare Test Tower 3": {
     "Rarity": "Super Rare",
     "price": 1000,
@@ -158,7 +158,7 @@
     "MaxRange": "nan",
 
     "ExcludeFromSummon": false
-  }
+  },
     "Super Rare Test Tower 4": {
     "Rarity": "Super Rare",
     "price": 1000,
