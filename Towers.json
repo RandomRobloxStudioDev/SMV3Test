@@ -14,6 +14,52 @@
 
     "ExcludeFromSummon": false
   },
+  "Common Test Tower 2": {
+    "Rarity": "Common",
+    "price": 100,
+    "Image": "rbxassetid://13062969701",
+
+    "Damage": 400,
+    "Cooldown": 2,
+    "Range": 999,
+
+    "MaxDamage": "inf",
+    "MaxCooldown": 5,
+    "MaxRange": 1,
+
+    "ExcludeFromSummon": false
+  },
+    "Common Test Tower 3": {
+    "Rarity": "Common",
+    "price": 100,
+    "Image": "rbxassetid://13062969701",
+
+    "Damage": 400,
+    "Cooldown": 2,
+    "Range": 999,
+
+    "MaxDamage": "inf",
+    "MaxCooldown": 5,
+    "MaxRange": 1,
+
+    "ExcludeFromSummon": false
+  },
+    "Common Test Tower 4": {
+    "Rarity": "Common",
+    "price": 100,
+    "Image": "rbxassetid://13062969701",
+
+    "Damage": 400,
+    "Cooldown": 2,
+    "Range": 999,
+
+    "MaxDamage": "inf",
+    "MaxCooldown": 5,
+    "MaxRange": 1,
+
+    "ExcludeFromSummon": false
+  },
+  
   "Rare Test Tower 1": {
     "Rarity": "Rare",
     "price": 100,
@@ -28,7 +74,92 @@
 
     "ExcludeFromSummon": false
   },
+  "Rare Test Tower 2": {
+    "Rarity": "Rare",
+    "price": 100,
+
+    "Damage": 400,
+    "Cooldown": 2,
+    "Range": 999,
+
+    "MaxDamage": "inf",
+    "MaxCooldown": "-inf",
+    "MaxRange": "nan",
+
+    "ExcludeFromSummon": false
+  },
+    "Rare Test Tower 3": {
+    "Rarity": "Rare",
+    "price": 100,
+
+    "Damage": 400,
+    "Cooldown": 2,
+    "Range": 999,
+
+    "MaxDamage": "inf",
+    "MaxCooldown": "-inf",
+    "MaxRange": "nan",
+
+    "ExcludeFromSummon": false
+  },
+    "Rare Test Tower 4": {
+    "Rarity": "Rare",
+    "price": 100,
+
+    "Damage": 400,
+    "Cooldown": 2,
+    "Range": 999,
+
+    "MaxDamage": "inf",
+    "MaxCooldown": "-inf",
+    "MaxRange": "nan",
+
+    "ExcludeFromSummon": false
+  },
+  
   "Super Rare Test Tower 1": {
+    "Rarity": "Super Rare",
+    "price": 1000,
+
+    "Damage": 10,
+    "Cooldown": 2,
+    "Range": 999,
+
+    "MaxDamage": "inf",
+    "MaxCooldown": "-inf",
+    "MaxRange": "nan",
+
+    "ExcludeFromSummon": false
+  }
+    "Super Rare Test Tower 2": {
+    "Rarity": "Super Rare",
+    "price": 1000,
+
+    "Damage": 10,
+    "Cooldown": 2,
+    "Range": 999,
+
+    "MaxDamage": "inf",
+    "MaxCooldown": "-inf",
+    "MaxRange": "nan",
+
+    "ExcludeFromSummon": false
+  }
+    "Super Rare Test Tower 3": {
+    "Rarity": "Super Rare",
+    "price": 1000,
+
+    "Damage": 10,
+    "Cooldown": 2,
+    "Range": 999,
+
+    "MaxDamage": "inf",
+    "MaxCooldown": "-inf",
+    "MaxRange": "nan",
+
+    "ExcludeFromSummon": false
+  }
+    "Super Rare Test Tower 4": {
     "Rarity": "Super Rare",
     "price": 1000,
 
